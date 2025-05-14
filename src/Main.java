@@ -9,7 +9,7 @@ public class Main {
 
     }
 
-    public static Boolean isPerfectNumber(int number)
+    public static boolean isPerfectNumber(int number)
     {
 
 
